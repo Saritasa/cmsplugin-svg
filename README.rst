@@ -1,3 +1,6 @@
+# Deprecated
+Moved to: https://github.com/saritasa-nest/micrometals-cmsplugin-svg
+
 .. image:: https://badge.fury.io/py/cmsplugin-svg.svg
 	   :target: https://badge.fury.io/py/cmsplugin-svg
 
